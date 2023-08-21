@@ -1,0 +1,64 @@
+body{
+  margin-top: 250px;
+  text-align:center;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190628/ourmid/pngtree-simple-atmospheric-blue-temperature-needle-illustration-background-image_279280.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 60vw;
+  height: 65vh;
+  background-size:cover ;
+}
+
+h1 {
+    font-size: 3rem ;
+    font-family: cursive;
+  padding-bottom: 1.5rem;
+}
+
+input[type=number] {
+  cursor: pointer;
+}
+
+#input-Celsius{
+  background-color: #52DDCF;
+  font-style: italic;
+  font-size: 2.5rem;
+  text-align:center;
+}
+
+#input-Fahrenheit{
+  background-color: #ae56d1;
+  font-style: italic;
+  font-size: 2.5rem;
+  text-align:center;
+}
+
+
+.form-padding {
+  padding: 2rem 1rem;
+}
+
+::-webkit-input-placeholder {
+  color: #FFFFFF !important;
+}
+::-moz-placeholder {
+  color: #FFFFFF !important;
+}
+:-ms-input-placeholder {
+  color: #FFFFFF !important;
+}
+:-moz-placeholder {
+  color: #FFFFFF !important;
+}
+
+footer{
+  padding-top: 1.5rem;
+  font-size: 0.7rem;
+  line-height: 0.2rem;
+  text-align:center;
+}
+
+.icons{
+  max-width: 25px;
+  height: auto;
+}
